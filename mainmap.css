@@ -1,0 +1,250 @@
+.mainmap {
+    background-image: url(img/backmain2.jpg);
+    background-size: 5000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-color: blue; */
+    width: 1600px;
+    height: 1400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    margin: 0 auto;
+    /* background-color: aqua; */
+    /* background-image: url(img/main-start.svg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 1000px; */
+}
+
+
+
+.book {
+
+    /* display: flex; */
+    margin: 20px 100px 0 100px;
+    justify-content: center;
+}
+
+.book2 {
+    margin: 20px 100px 0 100px;
+    justify-content: center;
+}
+
+/* .book-item {
+    margin: 0;
+} */
+
+.book-item1 {
+    /* background-color: brown; */
+    margin: 0 0 50px 0;
+    width: 600px;
+    height: 600px;
+    display: block;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.book-item2 {
+    /* background-color: blueviolet; */
+    width: 600px;
+    height: 600px;
+    display: block;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+
+}
+
+.book-item3 {
+    background-color: aquamarine;
+    margin: 0 0 50px 0;
+    width: 600px;
+    height: 600px;
+    display: block;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+
+}
+
+.book-item4 {
+    background-color: blue;
+
+    width: 600px;
+    height: 600px;
+    display: inline-flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+/* item css */
+
+/* book-item1 */
+
+/* .item1 {} */
+
+.item1 {
+    /* background-image: url(img/mozg.svg); */
+    /* background-color: aliceblue; */
+    width: 250px;
+    height: 70px;
+    margin: 30px 0 10px 500px;
+    display: block;
+    justify-content: center;
+    color: beige;
+    text-decoration-line: none;
+    transition: .5s;
+
+}
+
+.item1:hover {
+    transform: scale(1.2);
+}
+
+
+.it1 {
+
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 24px;
+    color: beige;
+    text-decoration-line: none;
+}
+
+
+.item2 {
+    margin-top: 0;
+    margin-left: 320px;
+    margin-bottom: 10px;
+    display: block;
+    justify-content: center;
+    width: 420px;
+    height: 80px;
+    color: beige;
+    transition: .5s;
+}
+
+.item2:hover {
+    transform: scale(1.2);
+}
+
+
+
+.item3 {
+    margin-left: 180px;
+    margin-top: 30px;
+    display: block;
+    justify-content: center;
+    width: 300px;
+    height: 100px;
+    /* background-color: aliceblue; */
+    color: beige;
+    transition: .5s;
+}
+
+.item3:hover {
+    transform: scale(1.2);
+}
+
+
+.item4 {
+    margin-left: 100px;
+    margin-top: 30px;
+    display: block;
+    justify-content: center;
+    width: 300px;
+    height: 100px;
+    /* background-color: aliceblue; */
+    color: beige;
+    transition: .5s;
+}
+
+.item4:hover {
+    transform: scale(1.2);
+}
+
+
+.item5 {
+    margin-left: 60px;
+    margin-top: 30px;
+    display: block;
+    justify-content: center;
+    width: 300px;
+    height: 100px;
+    /* background-color: aliceblue; */
+    color: beige;
+    transition: .5s;
+}
+
+.item5:hover {
+    transform: scale(1.2);
+}
+
+
+/* book-item2 */
+.item6 {
+    margin: 20px 0 8px 0
+}
+
+.item7 {
+    margin-left: 20px;
+}
+
+.item8 {
+    margin-left: 50px;
+}
+
+.item9 {
+    margin-left: 100px;
+}
+
+.item10 {
+    margin-left: 180px;
+}
+
+
+/* book-item3 */
+.item11 {
+    margin: 20px 0 8px 0
+}
+
+.item12 {
+    margin-left: 80px;
+}
+
+.item13 {
+    margin-left: 150px;
+}
+
+.item14 {
+    margin-left: 200px;
+}
+
+.item15 {
+    margin-left: 180px;
+}
+
+/* book-item4 */
+.item16 {
+    margin-left: ;
+}
+
+.item17 {
+    margin-left: ;
+}
+
+.item18 {
+    margin-left: auto;
+}
+
+.item19 {
+    margin-left: auto;
+}
+
+.item20 {
+    margin-left: auto;
+}
+
+.item21 {
+    margin-left: auto;
+}
